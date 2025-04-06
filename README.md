@@ -65,9 +65,6 @@ The data pipeline is built around five main components:
    ```bash
    # Create database
    createdb pandemia_prediction
-   
-   # Run initialization script
-   psql -d pandemia_prediction -f db_init.sql
    ```
 
 ## Usage
