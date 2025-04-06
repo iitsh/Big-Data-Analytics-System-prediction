@@ -118,6 +118,3 @@ The system achieves 95% accuracy with Random Forest and 90% with Logistic Regres
 - Performance optimization for even larger volumes
 - Large-scale deployment on distributed clusters
 
-## License
-
-MIT
