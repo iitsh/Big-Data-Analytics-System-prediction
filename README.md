@@ -71,22 +71,22 @@ The data pipeline is built around five main components:
 
 1. Preprocess data:
    ```bash
-   python process_diabetes_data.py
+   spark-submit process_diabetes_data.py
    ```
 
 2. Train models:
    ```bash
-   python train_diabetes_model.py
+   spark-submit train_diabetes_model.py
    ```
 
 3. Test Kafka configuration:
    ```bash
-   python test_kafka.py
+   python3 test_kafka.py
    ```
 
 4. Launch Spark Streaming consumer:
    ```bash
-   python diabetes_consumer.py
+   python3 diabetes_consumer.py
    ```
 
 5. Launch dashboard:
@@ -96,7 +96,7 @@ The data pipeline is built around five main components:
 
 6. To simulate a real-time data stream:
    ```bash
-   python diabetes_producer.py
+   python3 diabetes_producer.py
    ```
 
 ## Key Features
