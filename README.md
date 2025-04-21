@@ -18,9 +18,9 @@ This project implements a complete Big Data architecture for predicting and moni
 
 ## 🏗️ Architecture
 
-The data pipeline is built around five main components:
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRwYmk1YWhjcDV0bXl5NTZ2Y3ZwaDlmcmk0aGUxanlleDcwemdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPuzqJQukIjhwZ2/giphy.gif" width="650" alt="System Architecture">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk2dGducjY2dGlobGRyaHljM2tuaGU1dng1bGk0ejR0OGNveWZjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUWmFG/giphy.gif" width="650" alt="System Architecture">
+The data pipeline is built around five main components:
 
 1. **Data Collection** - Kafka broker for real-time data stream management
    - Ingests various health data sources
@@ -127,7 +127,7 @@ The data pipeline is built around five main components:
 
 ## 📈 Usage
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFnb3VkaWt4MzI0ODkzMThkYWtzaG51c2l0NDgzdTlmcG92amQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="650" alt="Data Analysis">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2YjJhY2VsY2owZGZjMmc3NGt6bWpkMzU0bnN1cXhvNnFrdnJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C2KGFW9kz8vzSFy/giphy.gif" width="650" alt="Data Workflow">
 
 1. Preprocess data:
    ```bash
@@ -201,7 +201,7 @@ This demonstrates that our Big Data approach can be effectively applied to pande
 
 ## 🔮 Future Perspectives
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc294cnJpcHZ6Zms4aGxlZWliOWlxdXM5cHA2dDF1bDU1OXJlMm02ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="650" alt="Future Technology">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG51dG94dGdseHpheDQyYTZpeTduODQxYW9kdXJ1MXoyMWhjZHdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9y/giphy.gif" width="650" alt="Future Technology">
 
 - Extension to other types of diseases and health conditions
 - Integration of geospatial data for regional prediction models
@@ -221,7 +221,7 @@ For questions or collaboration opportunities, please open an issue or contact th
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA0NGVuNnE3aXlzeGpwbGVobm1vNDczZ2x1NDNveHVzMWw2b2dhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CySTsO9JqWL8ju/giphy.gif" width="250" alt="Data Analysis">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMwbGV4bHQyajM1bHF0OW1yZnJ5Mm1wbTk5d24yYXk1dmkzczRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C9UhfB0jUNpAdi/giphy.gif" width="250" alt="Business Analytics">
   <br>
   <i>Drive decisions with data</i>
 </p>
