@@ -1,6 +1,6 @@
 # Big Data System for Pandemic Prediction 🔬📊
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRzanI0b3p0NmQ3Z2ZicWl5dmR5aWpjZnM2eG1pc3R3aDR2bjVoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JO9WCVmDMbC0eLSlyV/giphy.gif" width="650" alt="Data Analytics Dashboard">
+<img src="https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg" width="650" alt="Data Analytics Dashboard">
 
 [![Spark](https://img.shields.io/badge/Apache_Spark-3.x-orange.svg)](https://spark.apache.org/)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-Latest-blue.svg)](https://kafka.apache.org/)
@@ -12,13 +12,13 @@ A comprehensive data processing architecture for real-time predictive analysis o
 
 ## 📋 Overview
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFwYTMwN3RhbHMycXUyNjlyM2c2ZzBkcWUza2VvYWs4b3hudjYzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiQeyYFamzRoR2/giphy.gif" width="650" alt="Data Processing Pipeline">
+<img src="https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg" width="650" alt="Data Processing Pipeline">
 
 This project implements a complete Big Data architecture for predicting and monitoring pandemics. The system uses a set of modern technologies (Spark, Spark Streaming, Kafka) to form a processing pipeline capable of collecting, storing, processing, and visualizing large volumes of health data in real-time.
 
 ## 🏗️ Architecture
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRwYmk1YWhjcDV0bXl5NTZ2Y3ZwaDlmcmk0aGUxanlleDcwemdvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPuzqJQukIjhwZ2/giphy.gif" width="650" alt="System Architecture">
+<img src="https://images.pexels.com/photos/7376/startup-photos.jpg" width="650" alt="System Architecture">
 
 The data pipeline is built around five main components:
 
@@ -74,7 +74,7 @@ The data pipeline is built around five main components:
 
 ## 🔧 Requirements
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVxbGxxOGZ0amM4Nm5vcDJlY245OW5rejI2MDJmbHJ4bm1qbHI2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" width="650" alt="Enterprise Technology Stack">
+<img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" width="650" alt="Enterprise Technology Stack">
 
 - Apache Spark 3.x
 - Apache Kafka
@@ -127,7 +127,7 @@ The data pipeline is built around five main components:
 
 ## 📈 Usage
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2YjJhY2VsY2owZGZjMmc3NGt6bWpkMzU0bnN1cXhvNnFrdnJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C2KGFW9kz8vzSFy/giphy.gif" width="650" alt="Data Workflow">
+<img src="https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg" width="650" alt="Data Workflow">
 
 1. Preprocess data:
    ```bash
@@ -161,7 +161,7 @@ The data pipeline is built around five main components:
 
 ## ✨ Key Features
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNibnVwbXl1eWVva3RicmE1ZjJwOHZsZzA1Y3hncTlmeDdkNjNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="650" alt="Machine Learning Analytics">
+<img src="https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg" width="650" alt="Machine Learning Analytics">
 
 - **Robust data processing**: 
   - Cleaning, handling missing values
@@ -201,7 +201,7 @@ This demonstrates that our Big Data approach can be effectively applied to pande
 
 ## 🔮 Future Perspectives
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG51dG94dGdseHpheDQyYTZpeTduODQxYW9kdXJ1MXoyMWhjZHdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUM3IgJBX2as9y/giphy.gif" width="650" alt="Future Technology">
+<img src="https://images.pexels.com/photos/373543/pexels-photo-373543.jpeg" width="650" alt="Future Technology">
 
 - Extension to other types of diseases and health conditions
 - Integration of geospatial data for regional prediction models
@@ -221,7 +221,7 @@ For questions or collaboration opportunities, please open an issue or contact th
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMwbGV4bHQyajM1bHF0OW1yZnJ5Mm1wbTk5d24yYXk1dmkzczRycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C9UhfB0jUNpAdi/giphy.gif" width="250" alt="Business Analytics">
+  <img src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg" width="250" alt="Business Analytics">
   <br>
   <i>Drive decisions with data</i>
 </p>
