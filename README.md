@@ -1,6 +1,6 @@
-# Big Data System for Pandemic Prediction 🦠📊
+# Big Data System for Pandemic Prediction 🔬📊
 
-![Pandemic Analytics](https://media.giphy.com/media/SSf1BUICbHfcBCybPd/giphy.gif?cid=ecf05e473680ya4krizymzeq12pqkfoaux5lrix0thsh9wbs&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDRzanI0b3p0NmQ3Z2ZicWl5dmR5aWpjZnM2eG1pc3R3aDR2bjVoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JO9WCVmDMbC0eLSlyV/giphy.gif" width="650" alt="Data Analytics Dashboard">
 
 [![Spark](https://img.shields.io/badge/Apache_Spark-3.x-orange.svg)](https://spark.apache.org/)
 [![Kafka](https://img.shields.io/badge/Apache_Kafka-Latest-blue.svg)](https://kafka.apache.org/)
@@ -8,11 +8,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A massive data processing architecture for real-time predictive analysis of pandemics, implemented with Spark, Kafka, and associated technologies.
+A comprehensive data processing architecture for real-time predictive analysis of pandemics, implemented with Spark, Kafka, and enterprise-grade technologies.
 
 ## 📋 Overview
 
-![Data Processing](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwdDdrMWxreXZ0Mjg2MjZienh0OG0xcnE4MHB1a3p5MDk1OGZjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVs6OmwbbFvKPHcnw8/giphy.gif" width="650" alt="Data Processing Pipeline">
 
 This project implements a complete Big Data architecture for predicting and monitoring pandemics. The system uses a set of modern technologies (Spark, Spark Streaming, Kafka) to form a processing pipeline capable of collecting, storing, processing, and visualizing large volumes of health data in real-time.
 
@@ -20,7 +20,7 @@ This project implements a complete Big Data architecture for predicting and moni
 
 The data pipeline is built around five main components:
 
-![System Architecture](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk2dGducjY2dGlobGRyaHljM2tuaGU1dng1bGk0ejR0OGNveWZjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4n42JVSqqUWmFG/giphy.gif" width="650" alt="System Architecture">
 
 1. **Data Collection** - Kafka broker for real-time data stream management
    - Ingests various health data sources
@@ -74,7 +74,7 @@ The data pipeline is built around five main components:
 
 ## 🔧 Requirements
 
-![Tech Stack](https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVxbGxxOGZ0amM4Nm5vcDJlY245OW5rejI2MDJmbHJ4bm1qbHI2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ikwIgNrmPZICNmRyX/giphy.gif" width="650" alt="Enterprise Technology Stack">
 
 - Apache Spark 3.x
 - Apache Kafka
@@ -127,7 +127,7 @@ The data pipeline is built around five main components:
 
 ## 📈 Usage
 
-![Data Analysis](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFnb3VkaWt4MzI0ODkzMThkYWtzaG51c2l0NDgzdTlmcG92amQweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="650" alt="Data Analysis">
 
 1. Preprocess data:
    ```bash
@@ -161,7 +161,7 @@ The data pipeline is built around five main components:
 
 ## ✨ Key Features
 
-![Machine Learning](https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNibnVwbXl1eWVva3RicmE1ZjJwOHZsZzA1Y3hncTlmeDdkNjNmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="650" alt="Machine Learning Analytics">
 
 - **Robust data processing**: 
   - Cleaning, handling missing values
@@ -201,7 +201,7 @@ This demonstrates that our Big Data approach can be effectively applied to pande
 
 ## 🔮 Future Perspectives
 
-![Future Technology](https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc294cnJpcHZ6Zms4aGxlZWliOWlxdXM5cHA2dDF1bDU1OXJlMm02ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="650" alt="Future Technology">
 
 - Extension to other types of diseases and health conditions
 - Integration of geospatial data for regional prediction models
@@ -221,7 +221,7 @@ For questions or collaboration opportunities, please open an issue or contact th
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCScwdMAohPCq76/giphy.gif" alt="Stay healthy!" width="150">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXA0NGVuNnE3aXlzeGpwbGVobm1vNDczZ2x1NDNveHVzMWw2b2dhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CySTsO9JqWL8ju/giphy.gif" width="250" alt="Data Analysis">
   <br>
-  <i>Stay healthy, stay informed!</i>
+  <i>Drive decisions with data</i>
 </p>
