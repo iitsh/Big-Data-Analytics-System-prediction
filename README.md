@@ -12,7 +12,7 @@ A comprehensive data processing architecture for real-time predictive analysis o
 
 ## 📋 Overview
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGUwdDdrMWxreXZ0Mjg2MjZienh0OG0xcnE4MHB1a3p5MDk1OGZjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QVs6OmwbbFvKPHcnw8/giphy.gif" width="650" alt="Data Processing Pipeline">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFwYTMwN3RhbHMycXUyNjlyM2c2ZzBkcWUza2VvYWs4b3hudjYzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7buiQeyYFamzRoR2/giphy.gif" width="650" alt="Data Processing Pipeline">
 
 This project implements a complete Big Data architecture for predicting and monitoring pandemics. The system uses a set of modern technologies (Spark, Spark Streaming, Kafka) to form a processing pipeline capable of collecting, storing, processing, and visualizing large volumes of health data in real-time.
 
