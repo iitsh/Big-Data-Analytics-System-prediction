@@ -210,15 +210,7 @@ This demonstrates that our Big Data approach can be effectively applied to pande
 - Integration with government health systems for broader impact
 - Advanced anomaly detection for early pandemic warning
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📮 Contact
-
-For questions or collaboration opportunities, please open an issue or contact the repository maintainer.
-
----
 
 <p align="center">
   <img src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg" width="250" alt="Business Analytics">
